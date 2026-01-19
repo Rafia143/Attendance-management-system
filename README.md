@@ -1,2 +1,6 @@
 # Attendance-management-system
-This is a student-focused Attendance Management System designed to help manage and track student attendance efficiently. It allows students to view their attendance records, mark attendance The system is user-friendly and can be integrated with educational institutions
+Scope of the Project:
+Marklynk is a web-based attendance portal developed to automate and manage student attendance efficiently.
+The system allows students to mark and view their attendance in real time.
+Teachers can update attendance records and generate attendance reports.
+Administrators can manage users and maintain secure attendance data.
